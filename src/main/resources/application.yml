@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: easyexcel-study
+
+server:
+  port: 9999
+  servlet:
+    context-path: /easyexcel
